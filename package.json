@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/RodriguezAnthony/notes-app#readme",
   "dependencies": {
+    "chalk": "^5.0.1",
     "validator": "^13.7.0"
   }
 }
