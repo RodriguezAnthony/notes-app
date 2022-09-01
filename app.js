@@ -1,5 +1,4 @@
-const notes = require('./notes.js')
-// import chalk from 'chalk';
+import notes from './notes.js'
+
 
 console.log(notes())
-// console.log(chalk.green('Success!'))
