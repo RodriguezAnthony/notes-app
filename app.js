@@ -1,4 +1,5 @@
-import notes from './notes.js'
+const yargs = require('yargs')
+const getNotes = require('./notes.js')
+const chalk = require('chalk')
 
-
-console.log(notes())
+console.log(chalk.green('success!!'))

@@ -1,6 +1,5 @@
 {
   "name": "notes-app",
-  "type": "module",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -18,7 +17,7 @@
   },
   "homepage": "https://github.com/RodriguezAnthony/notes-app#readme",
   "dependencies": {
-    "chalk": "^5.0.1",
+    "chalk": "^4.1.2",
     "validator": "^13.7.0",
     "yargs": "^17.5.1"
   }
